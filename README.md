@@ -22,7 +22,7 @@ This project visualizes the inflation of Zcash over time, including the impact o
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/zcash-inflation-visualizer.git
+   git clone https://github.com/ruzcash/zcash-inflation-visualizer.git
    cd zcash-inflation-visualizer
    ```
 
